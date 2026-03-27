@@ -3,7 +3,7 @@ title: "OpenRefine Installation Instructions"
 layout: "home"
 description: "This is a guide to installing and running OpenRefine on your personal computer. Please note that all computers in the Map and Data Library and in the computer labs on the fourth and fifth floors of Robarts Library already have OpenRefine installed."
 permalink: "/"  #! Remove this if not the homepage
-staff:
+maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
