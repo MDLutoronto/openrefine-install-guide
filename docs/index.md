@@ -34,5 +34,5 @@ Please note that OpenRefine **can** read zipped files with the .zip extension. I
 
 *Please see* [*these official Mac instructions*](https://support.apple.com/en-gb/guide/mac-help/mh40616/mac) *to allow trusted program to run.*
 
-Technique: [Installation](/technique/installation) \| Tools: [OpenRefine](/tools/openrefine)  
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [OpenRefine](https://mdlutoronto.github.io/tutorials-search/?tool=OpenRefine)  
 **Date Created:** 2019\-03\-25 **Updated:** 2025\-10\-29
